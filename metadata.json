@@ -1,0 +1,7 @@
+{
+  "name": "Sasingian Lawyers",
+  "description": "An advanced Legal Practice Management System that uses AI to transform unstructured legal data into structured insights, workflows, and financial records.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
